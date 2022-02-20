@@ -2,7 +2,7 @@
 
 ## With HandBrakeCLI support
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Col-Serra/light-Queue-Enc/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devilharsha/Geeta-sandiya)
 
 ### Variables
 `APP_ID` `API_HASH` `BOT_TOKEN`
