@@ -33,9 +33,9 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE (Original)", url="github.com/1Danish-00/"),
-                Button.url("DEVELOPER", url="t.me/danish_00"),
-                Button.url("Maintainer", url="t.me/itsjust_r"),
+                Button.url("SOURCE CODE (Original)", url="https://t.me/SENKUBOTS"),
+                Button.url("DEVELOPER", url="t.me/harshahero),
+                Button.url("Maintainer", url="t.me/SuperToonsTelugu"),
             ],
         ],
     )
@@ -60,9 +60,9 @@ async def beck(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE (Original)", url="github.com/1Danish-00/"),
-                Button.url("DEVELOPER", url="t.me/danish_00"),
-                Button.url("Maintainer", url="t.me/itsjust_r"),
+                Button.url("SOURCE CODE (Original)", url="https://t.me/SENKUBOTS"),
+                Button.url("DEVELOPER", url="t.me/harshahero"),
+                Button.url("owner", url="t.me/SuperToonsTelugu"),
             ],
         ],
     )
